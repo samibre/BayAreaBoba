@@ -1,9 +1,9 @@
 # Boba Shops in the Bay Area
 by Samantha Do
 
-This data set has the yelp rating and location of boba shops in the Bay Area in February 2018. I downloaded this set from this link: https://www.kaggle.com/vnxiclaire/bobabayarea. 
+This data set has the rating and location of boba shops in the Bay Area in February 2018. I downloaded this set from this link: https://www.kaggle.com/vnxiclaire/bobabayarea. 
 
-From the data visualization below, it appears that San Jose has the most boba shops in the Bay Area. This can be explained by the demographics because over a third of San Jose's population is Asian and boba is an Asian dessert drink. San Jose is also the largest municipality by land area and population. 
+From the data visualization below, it appears that San Jose has the most 4.0 rated boba shops in the Bay Area and San Francisco has the most 4.5 rated boba shops. I think San Jose and San Francisco have the highest rated boba shops because these locations also have the highest number of boba shops in the Bay Area. This means that the boba shops have to constantly compete and innovate to stand out amongst their competitors. 
 
 <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
 
